@@ -329,6 +329,3 @@ yarn.lock
 
 # TypeScript v1 declaration files
 typings/
-
-# Access
-service-account.json
